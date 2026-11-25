@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" font-family="Menlo, Consolas, monospace" font-size="14">
+<rect x="0" y="0" width="320" height="300" fill="#2d353b"/>
+<text x="20" y="34" fill="#d3c6aa" font-size="17" font-weight="bold">comfort-dark</text>
+<text x="20" y="62" fill="#d3c6aa">$ ls ~/projects</text>
+<rect x="18" y="72" width="140" height="22" rx="3" fill="#475258"/>
+<text x="20" y="88" fill="#d3c6aa">selected text</text>
+<rect x="20" y="112" width="30" height="30" rx="6" fill="#4b565c"/>
+<rect x="20" y="156" width="30" height="30" rx="6" fill="#859289"/>
+<rect x="56" y="112" width="30" height="30" rx="6" fill="#e67e80"/>
+<rect x="56" y="156" width="30" height="30" rx="6" fill="#e67e80"/>
+<rect x="92" y="112" width="30" height="30" rx="6" fill="#a7c080"/>
+<rect x="92" y="156" width="30" height="30" rx="6" fill="#a7c080"/>
+<rect x="128" y="112" width="30" height="30" rx="6" fill="#dbbc7f"/>
+<rect x="128" y="156" width="30" height="30" rx="6" fill="#dbbc7f"/>
+<rect x="164" y="112" width="30" height="30" rx="6" fill="#7fbbb3"/>
+<rect x="164" y="156" width="30" height="30" rx="6" fill="#7fbbb3"/>
+<rect x="200" y="112" width="30" height="30" rx="6" fill="#d699b6"/>
+<rect x="200" y="156" width="30" height="30" rx="6" fill="#d699b6"/>
+<rect x="236" y="112" width="30" height="30" rx="6" fill="#83c092"/>
+<rect x="236" y="156" width="30" height="30" rx="6" fill="#83c092"/>
+<rect x="272" y="112" width="30" height="30" rx="6" fill="#d3c6aa"/>
+<rect x="272" y="156" width="30" height="30" rx="6" fill="#d3c6aa"/>
+<text x="20" y="228" fill="#e67e80">error</text>
+<text x="116" y="228" fill="#a7c080">passed</text>
+<text x="212" y="228" fill="#dbbc7f">warning</text>
+<text x="20" y="254" fill="#7fbbb3">info</text>
+<text x="116" y="254" fill="#d699b6">branch</text>
+<text x="212" y="254" fill="#83c092">done</text>
+<text x="20" y="284" fill="#859289"># a dim comment</text>
+<rect x="320" y="0" width="320" height="300" fill="#f3ead3"/>
+<text x="340" y="34" fill="#434f55" font-size="17" font-weight="bold">comfort-light</text>
+<text x="340" y="62" fill="#434f55">$ ls ~/projects</text>
+<rect x="338" y="72" width="140" height="22" rx="3" fill="#d9d0b4"/>
+<text x="340" y="88" fill="#434f55">selected text</text>
+<rect x="340" y="112" width="30" height="30" rx="6" fill="#5c6a72"/>
+<rect x="340" y="156" width="30" height="30" rx="6" fill="#6b756f"/>
+<rect x="376" y="112" width="30" height="30" rx="6" fill="#b33a3a"/>
+<rect x="376" y="156" width="30" height="30" rx="6" fill="#b33a3a"/>
+<rect x="412" y="112" width="30" height="30" rx="6" fill="#5f6d00"/>
+<rect x="412" y="156" width="30" height="30" rx="6" fill="#5f6d00"/>
+<rect x="448" y="112" width="30" height="30" rx="6" fill="#8a6200"/>
+<rect x="448" y="156" width="30" height="30" rx="6" fill="#8a6200"/>
+<rect x="484" y="112" width="30" height="30" rx="6" fill="#2f6f99"/>
+<rect x="484" y="156" width="30" height="30" rx="6" fill="#2f6f99"/>
+<rect x="520" y="112" width="30" height="30" rx="6" fill="#a3447f"/>
+<rect x="520" y="156" width="30" height="30" rx="6" fill="#a3447f"/>
+<rect x="556" y="112" width="30" height="30" rx="6" fill="#2a7a5c"/>
+<rect x="556" y="156" width="30" height="30" rx="6" fill="#2a7a5c"/>
+<rect x="592" y="112" width="30" height="30" rx="6" fill="#6b756f"/>
+<rect x="592" y="156" width="30" height="30" rx="6" fill="#5c6a72"/>
+<text x="340" y="228" fill="#b33a3a">error</text>
+<text x="436" y="228" fill="#5f6d00">passed</text>
+<text x="532" y="228" fill="#8a6200">warning</text>
+<text x="340" y="254" fill="#2f6f99">info</text>
+<text x="436" y="254" fill="#a3447f">branch</text>
+<text x="532" y="254" fill="#2a7a5c">done</text>
+<text x="340" y="284" fill="#6b756f"># a dim comment</text>
+</svg>
