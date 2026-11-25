@@ -1,0 +1,19 @@
+{
+  "place": "none",
+  "title": "Blinky (eye breaks)",
+  "overlay": {
+    "kind": "window",
+    "key": "blink-buddy",
+    "keep": true
+  },
+  "palette": [
+    {
+      "title": "Blinky: eye break buddy",
+      "command": "mod.open",
+      "args": {
+        "name": "blink-buddy"
+      },
+      "words": "eyes break 20-20-20 blink rest dry"
+    }
+  ]
+}
